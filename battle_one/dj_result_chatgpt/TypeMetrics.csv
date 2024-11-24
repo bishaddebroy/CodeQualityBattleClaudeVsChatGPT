@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT,File path,Line no
+chatgpt,(default package),LRUCache,2,0,9,8,34,9,0,0,0.0,0,0,D:\CodeQualityBattleClaudeVsChatGPT\battle_one\chatgpt\LRUCache.java,4
+chatgpt,(default package),ShoppingCartTest,1,0,15,0,77,15,0,0,0.0,0,0,D:\CodeQualityBattleClaudeVsChatGPT\battle_one\chatgpt\ShoppingCartTest.java,6
+chatgpt,(default package),UserRegistrationForm,8,0,4,3,96,12,0,0,0.75,0,0,D:\CodeQualityBattleClaudeVsChatGPT\battle_one\chatgpt\UserRegistrationForm.java,9

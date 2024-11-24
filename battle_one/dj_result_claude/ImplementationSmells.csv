@@ -1,0 +1,40 @@
+Project Name,Package Name,Type Name,Method Name,Implementation Smell,Cause of the Smell,Method start line no
+claude,(default package),RegistrationForm,RegistrationForm,Long Statement,The length of the statement "JOptionPane.showMessageDialog(RegistrationForm.this`"Registration successful!"`"Success"`JOptionPane.INFORMATION_MESSAGE);" is 122.,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 400,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 500,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 20,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 20,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 20,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 20,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 5,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 5,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 5,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 5,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 20,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 20,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 2,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 20,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 3,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 4,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 5,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 2,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 6,21
+claude,(default package),RegistrationForm,RegistrationForm,Magic Number,The method contains a magic number: 2,21
+claude,(default package),RegistrationForm,actionPerformed,Long Statement,The length of the statement "JOptionPane.showMessageDialog(RegistrationForm.this`"Registration successful!"`"Success"`JOptionPane.INFORMATION_MESSAGE);" is 122.,107
+claude,(default package),RegistrationForm,validateForm,Complex Conditional,The conditional expression !maleButton.isSelected() && !femaleButton.isSelected() && !otherButton.isSelected() is complex.,121
+claude,(default package),RegistrationForm,validateForm,Complex Method,Cyclomatic complexity of the method is 8,121
+claude,(default package),RegistrationForm,validateForm,Magic Number,The method contains a magic number: 3,121
+claude,(default package),RegistrationForm,validateForm,Magic Number,The method contains a magic number: 6,121
+claude,(default package),ShoppingCartTest,addItem_ValidQuantity_Success,Magic Number,The method contains a magic number: 2,19
+claude,(default package),ShoppingCartTest,addItem_ValidQuantity_Success,Magic Number,The method contains a magic number: 2,19
+claude,(default package),ShoppingCartTest,addItem_ExistingItem_UpdatesQuantity,Magic Number,The method contains a magic number: 2,52
+claude,(default package),ShoppingCartTest,addItem_ExistingItem_UpdatesQuantity,Magic Number,The method contains a magic number: 3,52
+claude,(default package),ShoppingCartTest,getTotal_MultipleItems_CorrectTotal,Magic Number,The method contains a magic number: 2,84
+claude,(default package),ShoppingCartTest,getTotal_MultipleItems_CorrectTotal,Magic Number,The method contains a magic number: 40.0,84
+claude,(default package),ShoppingCartTest,applyDiscount_ValidPercentage_Success,Magic Number,The method contains a magic number: 100,98
+claude,(default package),ShoppingCartTest,applyDiscount_NegativePercentage_ThrowsException,Magic Number,The method contains a magic number: 10.0,108
+claude,(default package),ShoppingCartTest,applyDiscount_OverHundredPercentage_ThrowsException,Magic Number,The method contains a magic number: 110.0,117
+claude,(default package),ShoppingCartTest,applyDiscount_EmptyCart_Success,Magic Number,The method contains a magic number: 10.0,126
+claude,(default package),ShoppingCartTest,complexScenario_MultipleOperations_CorrectTotal,Magic Number,The method contains a magic number: 2,133
+claude,(default package),ShoppingCartTest,complexScenario_MultipleOperations_CorrectTotal,Magic Number,The method contains a magic number: 10.0,133
+claude,(default package),ShoppingCartTest,complexScenario_MultipleOperations_CorrectTotal,Magic Number,The method contains a magic number: 18.0,133
